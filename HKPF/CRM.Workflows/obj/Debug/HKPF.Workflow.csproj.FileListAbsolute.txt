@@ -1,0 +1,13 @@
+C:\Suresh\VS Projects\repos\HKPF\CRM.Workflows\bin\Debug\HKPF.Workflows.dll
+C:\Suresh\VS Projects\repos\HKPF\CRM.Workflows\bin\Debug\HKPF.Workflows.pdb
+C:\Suresh\VS Projects\repos\HKPF\CRM.Workflows\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Suresh\VS Projects\repos\HKPF\CRM.Workflows\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Suresh\VS Projects\repos\HKPF\CRM.Workflows\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Suresh\VS Projects\repos\HKPF\CRM.Workflows\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Suresh\VS Projects\repos\HKPF\CRM.Workflows\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Suresh\VS Projects\repos\HKPF\CRM.Workflows\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Suresh\VS Projects\repos\HKPF\CRM.Workflows\obj\Debug\HKPF.Workflow.csproj.AssemblyReference.cache
+C:\Suresh\VS Projects\repos\HKPF\CRM.Workflows\obj\Debug\HKPF.Workflow.csproj.CoreCompileInputs.cache
+C:\Suresh\VS Projects\repos\HKPF\CRM.Workflows\obj\Debug\HKPF.Workflow.csproj.CopyComplete
+C:\Suresh\VS Projects\repos\HKPF\CRM.Workflows\obj\Debug\HKPF.Workflows.dll
+C:\Suresh\VS Projects\repos\HKPF\CRM.Workflows\obj\Debug\HKPF.Workflows.pdb

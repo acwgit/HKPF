@@ -1,0 +1,13 @@
+C:\Users\suresh\source\repos\CRM.Workflows\CRM.Workflows\bin\Debug\CRM.Workflow.dll
+C:\Users\suresh\source\repos\CRM.Workflows\CRM.Workflows\bin\Debug\CRM.Workflow.pdb
+C:\Users\suresh\source\repos\CRM.Workflows\CRM.Workflows\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\suresh\source\repos\CRM.Workflows\CRM.Workflows\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\suresh\source\repos\CRM.Workflows\CRM.Workflows\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\suresh\source\repos\CRM.Workflows\CRM.Workflows\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\suresh\source\repos\CRM.Workflows\CRM.Workflows\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\suresh\source\repos\CRM.Workflows\CRM.Workflows\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\suresh\source\repos\CRM.Workflows\CRM.Workflows\obj\Debug\CRM.Workflow.csproj.CoreCompileInputs.cache
+C:\Users\suresh\source\repos\CRM.Workflows\CRM.Workflows\obj\Debug\CRM.Workflow.csproj.CopyComplete
+C:\Users\suresh\source\repos\CRM.Workflows\CRM.Workflows\obj\Debug\CRM.Workflow.dll
+C:\Users\suresh\source\repos\CRM.Workflows\CRM.Workflows\obj\Debug\CRM.Workflow.pdb
+C:\Users\suresh\source\repos\CRM.Workflows\CRM.Workflows\obj\Debug\CRM.Workflow.csprojAssemblyReference.cache
