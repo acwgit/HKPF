@@ -123,8 +123,7 @@ namespace HKPF.Workflows
         }
         public string EscapeXml(string requestxml)
         {
-
-            return requestxml.Replace("&", "&amp;").Replace("<", "&lt;").Replace(">", "&gt;").Replace("\"", "&quot;").Replace("\'", "&apos;").Replace("'", "&apos;");
+            return requestxml.Replace("&", "%3F").Replace("/", "%2F").Replace(":", "%3A").Replace("=", "%3D").Replace("?", "%3F");
         }
 
     }
